@@ -36,10 +36,10 @@ To evaluate the consistency and divergence of sentiment predictions between Text
 ## 📁 Folder Structure
 
 ```
-├── sentiment_analysis.ipynb
+├── sentiment-analysis.ipynb
 ├── README.md
 ├── LICENSE
-└── dataset.csv
+└── sentiment_dataset.csv
 ```
 
 ## 📄 License
