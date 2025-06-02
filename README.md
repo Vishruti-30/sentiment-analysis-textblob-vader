@@ -18,8 +18,7 @@ To evaluate the consistency and divergence of sentiment predictions between Text
 - **Seaborn & Matplotlib** for data visualization
 
 ## 📈 Visualizations
-- Count plots of sentiment by platform (TextBlob & VADER)
-- Agreement vs. disagreement chart between both models
+- Countplot showing distribution of prediction agreements
 - Scatterplot comparing TextBlob polarity and VADER compound scores
 
 ## 💡 Key Takeaways
